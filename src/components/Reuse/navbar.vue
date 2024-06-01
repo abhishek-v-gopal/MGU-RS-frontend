@@ -20,10 +20,10 @@
           <a href="#" class="block py-2 px-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 md:dark:text-blue-500 dark:bg-blue-600 md:dark:bg-transparent" aria-current="page">Home</a>
         </li> -->
         <li>
-          <a href="#" class="block py-2 px-3 text-white text-bold rounded hover:bg-bgPrimary md:hover:bg-transparent md:border-0 md:hover:text-bgSecondary md:p-0 dark:text-white md:dark:hover:text-bgPrimary dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Log in</a>
+          <a href="/login" class="block py-2 px-3 text-white text-bold rounded hover:bg-bgPrimary md:hover:bg-transparent md:border-0 md:hover:text-bgSecondary md:p-0 dark:text-white md:dark:hover:text-bgPrimary dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Log in</a>
         </li>
         <li>
-          <a href="#" class="text-bgSecondary bg-bgPrimary hover:bg-bgSecondary hover:text-bgPrimary focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-sm px-4 py-2 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Sign Up</a>
+          <a href="/signup" class="text-bgSecondary bg-bgPrimary hover:bg-bgSecondary hover:text-bgPrimary focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-sm px-4 py-2 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Sign Up</a>
         </li>
         <!-- <li>
           <a href="#" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</a>
